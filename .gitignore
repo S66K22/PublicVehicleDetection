@@ -1,0 +1,9 @@
+.vscode
+data
+*.rar
+logs
+.ipynb_checkpoints
+__pycache__
+models
+Newfolder
+*.json
